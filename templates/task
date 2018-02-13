@@ -1,0 +1,28 @@
+// Copyright (c) 2017 IBM Corporation and others.
+// Licensed under Creative Commons Attribution-NoDerivatives
+// 4.0 International (CC BY-ND 4.0)
+//   https://creativecommons.org/licenses/by-nd/4.0/
+//
+// Contributors:
+//     IBM Corporation
+//
+:projectid: task-template
+:page-layout: task
+:page-duration: 5 minutes
+:page-releasedate: 2018-03-19
+:page-description: Use this template to create an Open Liberty task topic.
+:page-tags: ['task', 'template']
+:page-permalink:
+:common-includes:
+
+Notes on task topics:
+Keep tasks much shorter than guides. You should be able to complete each task in about five minutes.
+
+= Title
+What would you enter into a search engine to find how to perform this task?
+For SEO, include how Open Liberty relates to this task.
+
+== Short description
+When you scroll through a list of search results from a search engine, what would you look for?
+
+== Section 1:

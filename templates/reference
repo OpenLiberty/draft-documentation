@@ -1,0 +1,33 @@
+// Copyright (c) 2017 IBM Corporation and others.
+// Licensed under Creative Commons Attribution-NoDerivatives
+// 4.0 International (CC BY-ND 4.0)
+//   https://creativecommons.org/licenses/by-nd/4.0/
+//
+// Contributors:
+//     IBM Corporation
+//
+:projectid: reference-template
+:page-layout: reference
+:page-duration: 1 minute
+:page-releasedate: 2018-03-19
+:page-description: Use this template to create an Open Liberty reference topic.
+:page-tags: ['reference', 'template']
+:page-permalink:
+:common-includes:
+
+Notes on reference topics:
+Use reference topics for more experienced cloud-native developers who want the flexibility to explore detailed configuration documentation.
+Example content for references includes parameters, code syntax, options, and usage advice, such as API doc, Javadoc, configuration, and feature doc
+Reference content should be searchable.
+
+= Title
+
+== Short description
+What you can do with the contents in the reference topic.
+
+== Sections
+Categorize headings according to content type.
+For each section, include the following information:
+*Name of the item
+*Summary of what you can do with the item
+*An example of the item in use.

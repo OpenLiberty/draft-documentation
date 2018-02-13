@@ -1,0 +1,35 @@
+// Copyright (c) 2017 IBM Corporation and others.
+// Licensed under Creative Commons Attribution-NoDerivatives
+// 4.0 International (CC BY-ND 4.0)
+//   https://creativecommons.org/licenses/by-nd/4.0/
+//
+// Contributors:
+//     IBM Corporation
+//
+:projectid: concept-template
+:page-layout: concept
+:page-duration: 1 minute
+:page-releasedate: 2018-03-19
+:page-description: Use this template to create an Open Liberty concept topic.
+:page-tags: ['concept', 'template']
+:page-permalink:
+:common-includes:
+
+Notes on concept topics:
+Keep concepts short. You should be able to skim them in about a minute.
+
+= Title
+What would you enter into a search engine to learn more about this idea?
+For SEO, include how Open Liberty relates to this topic.
+
+== Short description
+When you scroll through a list of search results from a search engine, what would you look for?
+
+== Section 1: Include one diagram or one code snippet
+Example: A diagram comparing monolithic architecture and microservices architecture
+
+== Section 2: Include one paragraph or one list
+Example: A paragraph that explains the differences between web services and microservices.
+
+== Section 3: One or two sentences explaining what you can do with this concept.
+Example: A link to a guide that helps you create your own microservice.
